@@ -1,0 +1,14 @@
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\bin\Debug\net8.0\Multi-threadingLINQandEvents.exe
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\bin\Debug\net8.0\Multi-threadingLINQandEvents.deps.json
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\bin\Debug\net8.0\Multi-threadingLINQandEvents.runtimeconfig.json
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\bin\Debug\net8.0\Multi-threadingLINQandEvents.dll
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\bin\Debug\net8.0\Multi-threadingLINQandEvents.pdb
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\Multi-threadingLINQandEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\Multi-threadingLINQandEvents.AssemblyInfoInputs.cache
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\Multi-threadingLINQandEvents.AssemblyInfo.cs
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\Multi-threadingLINQandEvents.csproj.CoreCompileInputs.cache
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\Multi-threadingLINQandEvents.dll
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\refint\Multi-threadingLINQandEvents.dll
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\Multi-threadingLINQandEvents.pdb
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\Multi-threadingLINQandEvents.genruntimeconfig.cache
+C:\Users\BFI ITG\source\repos\Multi-threadingLINQandEvents\Multi-threadingLINQandEvents\obj\Debug\net8.0\ref\Multi-threadingLINQandEvents.dll
